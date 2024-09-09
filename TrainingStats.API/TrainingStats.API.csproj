@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TrainingStats.Application\TrainingStats.Application.csproj" />
-    <ProjectReference Include="..\TrainingStats.Domain\TrainingStats.Domain.csproj" />
     <ProjectReference Include="..\TrainingStats.Infrastructure\TrainingStats.Infrastructure.csproj" />
   </ItemGroup>
 
