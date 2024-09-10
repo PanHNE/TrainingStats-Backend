@@ -1,7 +1,7 @@
 ﻿using TrainingStats.Application.Common.Models;
 using Microsoft.AspNetCore.Identity;
 
-namespace Infrastructure.Identity;
+namespace TrainingStats.Infrastructure.Identity;
 
 public static class IdentityResultExtensions
 {

@@ -1,9 +1,8 @@
-﻿using TrainingStats.Application.Common.Interfaces;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using TrainingStats.Application.Common.Interfaces;
 using TrainingStats.Application.Common.Models;
-using Infrastructure.Identity;
 
 namespace TrainingStats.Infrastructure.Identity;
 
