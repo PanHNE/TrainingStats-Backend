@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingStats.Domain", "src\TrainingStats.Domain\TrainingStats.Domain.csproj", "{C20B1876-EF55-43E9-AA5F-9CA3B8E72688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Domain\Domain.csproj", "{C20B1876-EF55-43E9-AA5F-9CA3B8E72688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingStats.Application", "src\TrainingStats.Application\TrainingStats.Application.csproj", "{92C9AF08-8F20-49DB-A54B-20954305705F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{92C9AF08-8F20-49DB-A54B-20954305705F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingStats.Infrastructure", "src\TrainingStats.Infrastructure\TrainingStats.Infrastructure.csproj", "{1294F0A1-7F3D-4533-ADA7-1681FE5A585A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "src\Infrastructure\Infrastructure.csproj", "{1294F0A1-7F3D-4533-ADA7-1681FE5A585A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingStats.API", "src\TrainingStats.API\TrainingStats.API.csproj", "{BF1B2182-8EC2-491C-9C37-D1B013302471}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "src\API\API.csproj", "{BF1B2182-8EC2-491C-9C37-D1B013302471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
